@@ -1,0 +1,6 @@
+{
+  "name": "RCD & Grounding Installation Tracker",
+  "description": "ระบบบันทึกความคืบหน้าการติดตั้ง RCD และสายดินสำหรับตู้น้ำดื่มโรงเขียน เพื่อป้องกันอันตรายจากไฟดูด มีแผนที่แยกสีหมุดตามทีม และสรุปยอดจัดซื้ออุปกรณ์สำหรับผู้บริหาร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
